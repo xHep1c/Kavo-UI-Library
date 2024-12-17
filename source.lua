@@ -1,5 +1,6 @@
 loadstring(game:HttpGet('https://pastebin.com/raw/WvVCV2VX'))()
 loadstring(game:HttpGet('https://pastebin.com/raw/iFDNhrDc'))()
+loadstring(game:HttpGet('https://pastebin.com/raw/gFwa6Vrs'))()
 local Kavo = {}
 
 local tween = game:GetService("TweenService")
